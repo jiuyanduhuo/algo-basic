@@ -1,2 +1,2 @@
 # algo
-A collection of alto questions
+A collection of algo questions.
